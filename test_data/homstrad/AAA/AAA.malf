@@ -1,0 +1,62 @@
+      Code       Title
+
+[  1] 1g41a      structureX:1g41:   2 :A: 444 :A:ATP-dependent hsl protease ATP-binding subunit hslu:Haemophilus influenzae: 2.30: 26.4
+[  2] 1e94e      structureX:1e94:   1 :E: 443 :E:ATP-dependent hsl protease ATP-binding subunit hslu:Escherichia coli: 2.8: 25.43
+[  3] 1e32a      structureX:1e32: 191 :A: 458 :A:transitional endoplasmic reticulum ATPase:Mus musculus: 2.9: 22.4
+[  4] 1d2na      structureX:1d2n: 505 :A: 750 :A:vesicular-fusion protein NSF:Cricetulus griseus: 1.75: 19.9
+
+
+1g41a      -SEMTPREIVSELDQHIIGQADAKRAVAIALR-NRWRRMQLQEPLRHEVTPKNILMIGPTGVGKTEIARRLAKLA
+1e94e      HSEMTPREIVSELDKHIIGQDNAKRSVAIALR-NRWRRMQLNEELRHEVTPKNILMIGPTGVGKTEIARRLAKLA
+1e32a      REDEEE-SLNEVGYDDVGGCRKQLAQIKEMVELPLRHPALFK--AIGVKPPRGILLYGPPGTGKTLIARAVANET
+1d2na      -----E-DYASYIMNGIIKWGDPVTRVLDDGELLVQQTKNSD-----RTPLVSVLLEGPPHSGKTALAAKIAEES
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1g41a      NA-PFIKVEATKFTV----GKEVDSIIRDLTDSAMKLVRQQEIAKNR----------------------------
+1e94e      NA-PFIKVEATKFTEVGYVGKEVDSIIRDLTDAAVKMVRVQAIEKNRYRAEELAEERILDVLIPPAKNNWGQTEQ
+1e32a      GA-FFFLINGPEIMS-----KLAGESESNLRKAFEEAEK------------------------------------
+1d2na      NFPFIKICSPDKMIG-----FSETAKCQAMKKIFDDAYK------------------------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1g41a      -----------------------------------------LIDDEAAKLINPEELKQKAIDAVEQNGIVFIDEI
+1e94e      QQEPSAARQAFRKKLREGQLDDKEIEKQKARKLKIKDAMKLLIEEEAAKLVNPEELKQDAIDAVEQHGIVFIDEI
+1e32a      ----------------------------------------------------------------NAPAIIFIDEL
+1d2na      ----------------------------------------------------------------SQLSCVVVDDI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1g41a      DKICKKG--EYSGADVSREGVQRDLLPLVEGSTVSTKHGMVKTDH-ILFIASGAFQVARPSDLIP-ELQG--RLP
+1e94e      DKICKRG--ESSGPDVSREGVQRDLLPLVEGCTVSTKHGMVKTDH-ILFIASGAFQIAKPSDLIP-ELQG--RLP
+1e32a      DAIAP--KREKT-HGEVERRIVSQLLTLMDGLK-Q--------RAHVIVMAATN----RPNSIDP-ALRRFGRFD
+1d2na      ERLLDYVPIGPR-FS---NLVLQALLVLLKKAPPQ--------GRKLLIIGTTS----RKDVLQEMEMLN--AFS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1g41a      IRVELTAL-SAADFERILTEPHASLTEQYKALMATEGVNIAFTTDA-VKKIAEAAFRVNEKTENIGARRLHTVME
+1e94e      IRVELQAL-TTSDFERILTEPNASITVQYKALMATEGVNIEFTDSG-IKRIAEAAWQVNESTENIGARRLHTVLE
+1e32a      REVDIGIP-DATGRLEILQI----HTK-----------NMKLADDVDLEQVANETH-------GHVGADLAALCS
+1d2na      TTIHVPNIATGEQLLEALEL----LG--------------NFKDKE-RTTIAQQVKG---KKVWIGIKKLLMLIE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1g41a      RLMDKISFSASDMN------------GQTVNIDAAYVADALGEVVENEDLSRFIL*
+1e94e      RLMEEISYDASDLS------------GQNITIDADYVSKHLDALVADEDLSRFIL*
+1e32a      EAALQAIRKKMDLIDLEDETIDAEVMNS-LAVTMDDFRWALSQ------------*
+1d2na      MSLQMD-----------------PEY------RVRKFLALLREEGASPLD-----*
+           ====|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1g41a      100.0  82.3  17.9  16.3
+  2-1e94e       82.3 100.0  17.9  15.4
+  3-1e32a       17.9  17.9 100.0  15.0
+  4-1d2na       16.3  15.4  15.0 100.0
+
+***************************************************************************
